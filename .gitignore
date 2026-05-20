@@ -16,3 +16,6 @@ Thumbs.db
 
 # uv environment cache
 .uv/
+
+# pip cache
+*.egg-info/
