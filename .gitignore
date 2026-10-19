@@ -65,13 +65,11 @@ db.sqlite3-journal
 instance/
 .webassets-cache
 
-<<<<<<< HEAD
 # uv environment cache
 .uv/
 
 # pip cache
 *.egg-info/
-=======
 # Scrapy stuff:
 .scrapy
 
@@ -223,4 +221,3 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
->>>>>>> upstream/main

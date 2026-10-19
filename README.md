@@ -1,6 +1,20 @@
 # Qiskit-fundamentals-course
 A course to teach the basics of IBM's Qiskit SDK
 
+## Worked exercises in this fork
+
+This fork tracks [JoeyRogers-svg/Qiskit-fundamentals](https://github.com/JoeyRogers-svg/Qiskit-fundamentals).
+The original course notebooks remain unchanged. The latest upstream revision
+included here is `27ec6cc` (29 July 2026).
+
+**[Open the worked solutions](solutions/exercises.ipynb)** for the exercises in
+weeks 2–7, with explanations, plots, and executable checks. These additions were
+prepared with AI assistance. See [setup and coverage](solutions/README.md) for
+the small, pinned local environment. No IBM account is required for the solutions.
+
+The installation instructions below are for the **full upstream course**;
+some original notebooks include cloud/hardware examples.
+
 
 ## Installation
 
